@@ -24,3 +24,5 @@ Tickets - информация о бронированиях
 Bookings - подтвержденные покупки
 
 Genres - категории фильмов
+
+![image](https://github.com/user-attachments/assets/ab01153b-19e9-4444-9a40-86a08b0056fc)
