@@ -82,3 +82,17 @@ GetScreeningsByMovie(int movieId) — сеансы фильма
 BookTicket — бронирование билета
 (Все запросы обёрнуты в try-catch для обработки ошибок)
 
+ЭТАП 5
+
+Бизнес-слой
+
+В классе CinemaService реализована логика:
+- Проверка доступности сеанса
+- Проверка возрастного ограничения
+- Вызов методов из Database.cs для бронирования
+
+Методы:
+ListAvailableMovies()
+GetScreeningsForMovie(int movieId)
+TryBookTicket(int screeningId, int userId, string seat, int age): возвращает true/false
+
