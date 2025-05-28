@@ -26,6 +26,7 @@ Bookings - подтвержденные покупки
 Genres - категории фильмов
 
 ![image](https://github.com/user-attachments/assets/ab01153b-19e9-4444-9a40-86a08b0056fc)
+![image](https://github.com/user-attachments/assets/5e2f9349-5164-465e-8ca4-8a6fc3355146)
 
 
 
