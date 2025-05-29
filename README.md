@@ -1,5 +1,4 @@
 
-CinemaBookingSystem
 Описание проекта
 CinemaBookingSystem — это приложение для бронирования билетов в кинотеатр.
 
