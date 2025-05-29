@@ -67,10 +67,6 @@ Cinema Booking System — это консольное приложение дл�
 ![image](https://github.com/user-attachments/assets/88770eb2-6548-4bc5-8f53-0fb15ec21076)
 
 
----
 
- Диаграмма 2 — Структура классов бизнес-логики (UML)
-
-![image](https://github.com/user-attachments/assets/541aa804-ebbf-4467-8bd8-4e6f7822802e)
 
 
